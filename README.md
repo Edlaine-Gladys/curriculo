@@ -1,3 +1,3 @@
 # curriculo 
 Meu currículo contruído no Bootstrap
-https://edlaineviana.github.io/curriculo/
+https://edlaine-gladys.github.io/curriculo/
